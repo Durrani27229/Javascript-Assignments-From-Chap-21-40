@@ -691,7 +691,7 @@
 
 // ======== Question 1 ========
 
-// 1.	Code the first line of a function displayAlert.
+// Code the first line of a function displayAlert.
 
 // ======== Answer 1 ========
 
